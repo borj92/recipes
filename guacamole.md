@@ -1,7 +1,8 @@
 #Ingredients
--avocado
--tomato
--lime
+- avocado
+- tomato
+- lime
 
 #Instructions
 
+Put it all in the blender
